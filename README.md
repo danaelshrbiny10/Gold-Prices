@@ -16,11 +16,6 @@ To get started with this project, follow these steps:
 
 3. Gain valuable insights into the Egyptian gold market by studying historical pricing trends and patterns.
 
-## Contributing
-
-- dana elshrbiny
-- yomna tarek
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
