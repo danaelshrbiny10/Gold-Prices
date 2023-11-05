@@ -54,7 +54,7 @@ To get started with this project, follow these steps:
 1- you can run it by using docker file
 
 ```bash
-docker run -p 8888:8888 egp
+docker run -p 8888:8888 GoldPrices
 ```
 
 You can use this [Jupyter tree](http://127.0.0.1:8888/tree) to learn more about the Main file.
