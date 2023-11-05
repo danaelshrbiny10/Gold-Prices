@@ -1,0 +1,85 @@
+{
+	"info": {
+		"_postman_id": "f109710a-9e25-4c6a-9b5e-4f58eacf8e1e",
+		"name": "gold prices",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13841690"
+	},
+	"item": [
+		{
+			"name": "frame7",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://pricegold.net/ajax.php?frame=7",
+					"protocol": "https",
+					"host": [
+						"pricegold",
+						"net"
+					],
+					"path": [
+						"ajax.php"
+					],
+					"query": [
+						{
+							"key": "frame",
+							"value": "7"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "today",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://pricegold.net/ajax.php?do=today",
+					"protocol": "https",
+					"host": [
+						"pricegold",
+						"net"
+					],
+					"path": [
+						"ajax.php"
+					],
+					"query": [
+						{
+							"key": "do",
+							"value": "today"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "live",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://pricegold.net/ajax.php?do=live",
+					"protocol": "https",
+					"host": [
+						"pricegold",
+						"net"
+					],
+					"path": [
+						"ajax.php"
+					],
+					"query": [
+						{
+							"key": "do",
+							"value": "live"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
