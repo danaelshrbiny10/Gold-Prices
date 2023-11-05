@@ -49,10 +49,20 @@ To get started with this project, follow these steps:
 
 3. Gain valuable insights into the Egyptian gold market by studying historical pricing trends and patterns.
 
-## contributes
+## run project
 
-- Yomna Tarek <your_mail_here>
-- Dana elshrbiny <contact@danaelshrbiny.com>
+1- you can run it by using docker file
+
+```bash
+docker run -p 8888:8888 egp
+```
+
+You can use this [Jupyter tree](http://127.0.0.1:8888/tree) to learn more about the Main file.
+
+## Contributors
+
+- [**Yomna Tarek**](https://github.com/YomnaTarek) `developer`
+- [**dana elshrbiny**](https://github.com/danaelshrbiny10) `developer`
 
 ## License
 
