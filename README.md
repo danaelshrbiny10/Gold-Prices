@@ -9,7 +9,7 @@ To get started with the Gold Prices project:
 1. Clone the repository to your local machine
 
 ```bash
-git clone ..
+git clone https://github.com/danaelshrbiny10/Gold-Prices.git
 ```
 
 2. Create a virtual environment and activate it:
@@ -61,7 +61,7 @@ You can use this [Jupyter tree](http://127.0.0.1:8888/tree) to learn more about 
 
 ## Contributors
 
-- [**Yomna Tarek**](https://github.com/YomnaTarek) `developer`
+- [**Yomna Tarek**](https://github.com/Yomnaelfiky4) `developer`
 - [**dana elshrbiny**](https://github.com/danaelshrbiny10) `developer`
 
 ## License

@@ -6,7 +6,7 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - F:\DataScience\code\egp\main.ipynb
+      - F:\DataScience\code\GoldPrices\main.ipynb
     environment:
       - JUPYTER_ENABLE_LAB=yes
 
