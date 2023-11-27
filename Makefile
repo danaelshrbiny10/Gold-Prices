@@ -5,7 +5,7 @@ build:
     docker build -t egp .
 
 up:
-    docker run -p 8888:8888 egp
+    - docker run -p 8888:8888 egp
 
 down:
     docker-compose down
