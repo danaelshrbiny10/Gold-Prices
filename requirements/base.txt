@@ -1,15 +1,47 @@
-##################### python libraries ##################### 
+##################### General Programming #####################
 
-certifi==2023.7.22
-charset-normalizer==3.3.2
-idna==3.4
-requests==2.31.0
-urllib3==2.0.7
+attrs==23.1.0                  # Attributes without boilerplate
+cffi==1.16.0                   # Foreign Function Interface for Python calling C code
+constantly==23.10.4            # Symbolic constants in Python
+packaging==23.2                # Core utilities for Python packages
+pycparser==2.21                # C parser in Python
+six==1.16.0                    # Python 2 and 3 compatibility library
+PyDispatcher==2.0.7            # Multi-producer-multi-consumer signal dispatching mechanism
 
-##################### scrapy ##################### 
 
-twisted-iocpsupport==1.0.4
-lxml==4.9.2
-cssselect==1.2.0
-w3lib==2.1.1
+##################### Security #####################
 
+certifi==2023.11.17            # Certificates bundle
+cryptography==41.0.7           # Cryptographic recipes and primitives
+pyasn1==0.5.1                  # ASN.1 types and DER/BER/CER codecs
+pyasn1-modules==0.3.0          # A collection of ASN.1-based protocols modules
+pyOpenSSL==23.3.0              # Python wrapper for OpenSSL
+
+
+##################### Web Scraping (Scrapy) #####################
+
+Scrapy==2.11.0                 # Open-source and collaborative web crawling framework for Python
+cssselect==1.2.0               # CSS selectors for Python ElementTree
+itemadapter==0.8.0             # Adapter for items in Scrapy pipelines
+itemloaders==1.1.0             # Library for loading and processing items in Scrapy
+lxml==4.9.3                    # XML and HTML processing library
+queuelib==1.6.2                # Collection of persistent (disk-based) queues
+requests==2.31.0               # HTTP library for Python
+requests-file==1.5.1           # File transport adapter for Requests
+service-identity==23.1.0       # Service identity verification for Twisted
+w3lib==2.1.2                   # Library of web-related functions
+tldextract==5.1.1              # Python library to extract domain and subdomain from URLs
+
+
+##################### Asynchronous Networking #####################
+
+Twisted==22.10.0               # Asynchronous networking framework
+
+
+##################### Machine Learning #####################
+
+jmespath==1.0.1                # JSON Matching Expressions
+Protego==0.3.0                 # An MIT-licensed Python library for parsing robots.txt files
+typing_extensions==4.9.0       # Backported and experimental type hints for Python
+urllib3==2.1.0                 # HTTP library with thread-safe connection pooling
+zope.interface==6.1            # Interfaces for Python
