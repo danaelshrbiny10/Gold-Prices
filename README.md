@@ -62,6 +62,14 @@ docker run -p 8888:8888 GoldPrices
 
 You can use this [Jupyter tree](http://127.0.0.1:8888/tree) to learn more about the Main file.
 
+## future works
+- Enhance Performance Score by adding more datasets.
+- Minimize Gaps Between Local and Global Gold Prices and try to make local and global gold prices closer and figure out why they differ.
+- Add more details to the dashboard and include maps for better analysis understanding.
+- Collect data from different websites and combine it with currency and market information.
+- Ensure the project is always available for anyone to use whenever they want.
+- Create a mobile app for the project and include notifications to keep users updated on the latest news and prices.
+
 ## Contributors
 
 - [**Yomna Tarek**](https://github.com/Yomnaelfiky4) `developer`
